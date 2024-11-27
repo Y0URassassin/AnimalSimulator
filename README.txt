@@ -11,4 +11,5 @@ Animal Simulator is a text-based survival game where the player is tasked with s
 
 Non-default modules required to run this project:
 - playsound
+      NOTE: requires playsound 1.2.2 to work correctly, or errors will occur. (pip install playsound 1.2.2)
 
